@@ -3,6 +3,7 @@
 
 classes/copado__*
 classes/copadoccmint__*
+!classes/copadoccmint__TestIntegration.cls
 components/copado__*
 flows/copado__*
 staticresources/copado__*
